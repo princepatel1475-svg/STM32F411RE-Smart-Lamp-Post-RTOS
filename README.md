@@ -36,7 +36,7 @@ Smart lamp post system with FreeRTOS, 4 sensors, OLED display, and RTC on STM32F
 | YL-83 AO | PB0 (ADC CH8) |
 | LDR DO | PA4 |
 | InBuild - LED | PA5 |
-| SSD1306 SDA | PB (I2C1) |
+| SSD1306 SDA | PB9 (I2C1) |
 | SSD1306 SCL | PB8 (I2C1) |
 
 ## Project Structure
